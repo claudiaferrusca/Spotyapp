@@ -1,0 +1,2 @@
+# Spotyapp
+App de Angular
